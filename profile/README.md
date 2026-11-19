@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/spectrum.svg" width="100%" height="2" alt="">
+<img src="https://raw.githubusercontent.com/courtplaylabs/.github/main/profile/spectrum.svg" width="100%" height="2" alt="">
 
 <br><br>
 
-<img src="./assets/courtplay-logo.png" alt="Courtplay — Tech / Spaces / People / Growth" width="640">
+<img src="https://raw.githubusercontent.com/courtplaylabs/.github/main/profile/courtplay-logo.png" alt="Courtplay — Tech / Spaces / People / Growth" width="640">
 
 <br><br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="./assets/spectrum.svg" width="100%" height="2" alt="">
+<img src="https://raw.githubusercontent.com/courtplaylabs/.github/main/profile/spectrum.svg" width="100%" height="2" alt="">
 
 </div>
 
@@ -169,7 +169,7 @@ Desarrollamos tecnología, creamos experiencias digitales y conectamos espacios 
 
 <div align="center">
 
-<img src="./assets/spectrum.svg" width="100%" height="2" alt="">
+<img src="https://raw.githubusercontent.com/courtplaylabs/.github/main/profile/spectrum.svg" width="100%" height="2" alt="">
 
 <br><br>
 
